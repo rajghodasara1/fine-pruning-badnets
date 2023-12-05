@@ -55,3 +55,4 @@ Below is the Table of accuracy on clean test data and the attack success rate (o
 
 ![](./table.jpg)
 
+You can find more tables in the attached IPYNB file.
