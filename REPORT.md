@@ -1,5 +1,8 @@
 # Fine pruning defence against backdooring attacks
 
+Name: Raj Ghodasara
+NetID: rg4357
+
 ## Methodology of the Attack
 
 Utilizing the [YouTube Aligned Face Dataset](https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq?usp=sharing), the attack involved the integration of images. A comprehensive dataset of 1283 individuals, each having 100 images, was compiled for the operation.
