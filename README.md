@@ -8,7 +8,7 @@ Within this laboratory study, our focus is on assessing a defense technique aime
 
 1. Clone the repository
       ```bash
-      git clone git@github.com:utsavoza/badnets.git
+      git clone https://github.com/rajghodasara1/fine-pruning-badnets.git
       ```
 
 2. Download the validation and test datasets from [here](https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq?usp=sharing) and place them under `data/` directory.
